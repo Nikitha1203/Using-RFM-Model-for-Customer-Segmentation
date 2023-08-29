@@ -3,6 +3,7 @@ Using-RFM-Model-for-Customer-Segmentation
  The objective of this project is to conduct a Customer Segmentation Analysis. We perform customer segmentation by utilizing the RFM Model, which stands for Recency, Frequency and Monetary analysis. This approach allows us to group customers based on their purchase transactions. For this analysis we divided the customer segment into 11 groups. The outcome of this analysis will assist in identifying the customer segments that should be targeted to boost sales revenue, for the company. To facilitate this process we developed a Sales Dashboard using Tableau and conducted data quality assessment and analysis using Python.
 
 TABLEAU DASHBOARD 
+https://public.tableau.com/views/CustomerSegmentationDashboard_16932903849940/RFMDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
 https://public.tableau.com/views/CustomerSegmentationDashboard_16932903849940/RFMDashboard?:language=en-GB&publish=yes&:display_count=n&:origin=viz_share_link
 
